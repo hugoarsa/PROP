@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<body>
+    <tit>testXML</titulo>
+    <autor>autorXML</autor>
+    <contenido>Esto es un test de importado de XML</contenido>
+</body>

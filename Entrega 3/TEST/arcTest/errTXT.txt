@@ -1,0 +1,3 @@
+*@TestTXT
+autorTXT
+Esto es un test de importado de TXT

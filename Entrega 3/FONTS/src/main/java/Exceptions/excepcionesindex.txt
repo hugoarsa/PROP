@@ -1,0 +1,1 @@
+Este directorio contiene las excepciones del sistema.
